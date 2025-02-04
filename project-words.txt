@@ -48,7 +48,6 @@ commonmark
 contravariance
 corejs
 Couriol
-creativecommons
 Csapo
 Csvg
 dabit
@@ -310,7 +309,6 @@ Strikethrough
 strikethroughs
 stylelintrc
 sublabel
-sublicensable
 sublist
 subpage
 subsetting
@@ -362,7 +360,6 @@ Viet
 Vinnik
 vjeux
 voir
-waivable
 webfactory
 webpackbar
 webstorm
